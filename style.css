@@ -126,9 +126,6 @@ body{
     font-size: x-small;
     border-style: none;
     padding: 0.1rem;
-    -letter-spacing: 0.1rem;
-    text-decoration: none;
-    
   }
 
 /***** About us *****/
@@ -187,6 +184,7 @@ body{
     margin-bottom: 2rem;
     opacity: 0.8;
     border-radius: 10px;
+    font-family: sans-serif;
   }
 
 /* Image gallery  */
@@ -313,7 +311,7 @@ footer{
   font-size: x-small;
   border-style: none;
   padding: 0.1rem;
-  letter-spacing: 0.1rem;
+  font-family: sans-serif;
   text-decoration: none;
 }
 
@@ -487,6 +485,7 @@ label{
   border-style: none;
   padding: 0.15rem;
   text-decoration: none;
+  font-family: sans-serif;
 }
 
 /* About the suite */
@@ -631,7 +630,6 @@ ul{
       align-items: center;
       max-width: 1000px;
       font-weight: bold;
-      /* font-size: xx-large; */
       margin: 0 0;
       height: 5rem;
   } 
@@ -721,7 +719,6 @@ ul{
     font-size: x-large;
     border-style: none;
     padding: 0.4rem;
-    border-radius: 10px;
     font-family: sans-serif;
   }
 
@@ -922,7 +919,6 @@ ul{
   font-size: large;
   border-style: none;
   padding: 0.4rem;
-  border-radius: 10px;
   font-family: sans-serif;
 }
 
