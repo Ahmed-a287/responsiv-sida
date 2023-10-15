@@ -1062,6 +1062,8 @@ input[type="number"] {
 
 /* About the suite */
 .about-suite{
+  display: flex;
+  justify-content: center;
   margin: 1rem auto 0rem;
   font-style: oblique;
   font-family: cursive;
@@ -1069,6 +1071,8 @@ input[type="number"] {
 }
 .room-hr{
   width: 11rem;
+  height: 0.4rem;
+  border-style: none;
   margin: 0rem auto 1rem;
   background-color: rgb(110,237,199);
 }
