@@ -160,7 +160,9 @@ body{
   }
 
   .service-hr{
+    display: inline-block;
     background-color: rgb(110,237,199);
+    height: 0.2rem;
     width: 3rem;
   }
 
@@ -789,7 +791,7 @@ ul{
   }
 
   .service-item5{
-    display: grid;
+    display: block;
     grid-column: 5;
   }
 
@@ -798,6 +800,12 @@ ul{
     font-style:oblique;
   }
 
+  .service-hr{
+    display: inline-block;
+    height: 0.3rem;
+    width: 4rem;
+  }
+    
   .service-p{
     font-size: large;
   }
